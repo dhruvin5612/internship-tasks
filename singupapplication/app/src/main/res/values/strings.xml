@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">singup application</string>
+    <string name="email">email:-</string>
+    <string name="name">Name:-</string>
+    <string name="password">password:-</string>
+    <string name="number">number:-</string>
+    <string name="button">BUTTON</string>
+    <string name="Signup">signup</string>
+    <string name="Signin">singin</string>
+    <string name="SUBMIT">SUBMIT</string>
+    <string name="Logout">logout</string>
+</resources>
