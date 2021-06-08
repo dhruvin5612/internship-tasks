@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">2</string>
+    <string name="name1">name</string>
+    <string name="xender1">xender</string>
+    <string name="email1">email</string>
+    <string name="phone1">phone</string>
+    <string name="password1">password</string>
+    <string name="hobbies1">hobbies</string>
+    <string name="button1">button</string>
+</resources>
