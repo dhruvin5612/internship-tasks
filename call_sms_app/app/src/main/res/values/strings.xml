@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">call_ID</string>
+    <string name="call">call</string>
+    <string name="enter_yout_number">Enter yout Number :-</string>
+    <string name="enten_your_number">Enten your Number</string>
+    <string name="enter_your_number">Enter your Number :-</string>
+    <string name="enter_your_message">Enter your Message :-</string>
+    <string name="send_msg">Send Msg</string>
+</resources>
